@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UControlLib", "UControlLib.csproj", "{25D59B02-0ED7-4236-B1F2-ECE2CBEA26E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UForm", "UForm\UForm.csproj", "{0E3058E2-B1A1-4DD3-A440-F75F9BA5D9D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25D59B02-0ED7-4236-B1F2-ECE2CBEA26E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25D59B02-0ED7-4236-B1F2-ECE2CBEA26E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25D59B02-0ED7-4236-B1F2-ECE2CBEA26E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25D59B02-0ED7-4236-B1F2-ECE2CBEA26E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E3058E2-B1A1-4DD3-A440-F75F9BA5D9D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E3058E2-B1A1-4DD3-A440-F75F9BA5D9D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E3058E2-B1A1-4DD3-A440-F75F9BA5D9D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E3058E2-B1A1-4DD3-A440-F75F9BA5D9D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4500059E-6A58-422B-975F-34883CFA7EE1}
+	EndGlobalSection
+EndGlobal
